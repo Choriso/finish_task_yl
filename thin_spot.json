@@ -1,0 +1,32 @@
+{
+    "Vampire world": [
+        [
+            "sun",
+            "castle"
+        ]
+    ],
+    "Failed world": [
+        [
+            "friendship",
+            "meadow"
+        ],
+        [
+            "trip",
+            "road"
+        ],
+        [
+            "undersized trees",
+            "forest"
+        ]
+    ],
+    "Frosty world": [
+        [
+            "heat",
+            "desert"
+        ],
+        [
+            "love",
+            "home"
+        ]
+    ]
+}
